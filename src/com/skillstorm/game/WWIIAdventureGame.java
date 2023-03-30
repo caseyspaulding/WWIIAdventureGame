@@ -4,7 +4,6 @@ import java.util.Scanner;
 public class WWIIAdventureGame {
     private Player player;
     private Scene[] scenes;
-
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Welcome to the WW2 Adventure Game!");
